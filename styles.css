@@ -1,0 +1,66 @@
+.image
+{
+    margin: auto;
+    align-items : center;
+
+}
+body{
+
+  background-image: url("https://images4.alphacoders.com/107/thumbbig-1074058.webp");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  h1 {
+    text-align: center;
+  }  
+a:link
+{
+    color : aqua;
+}
+.divider
+{
+border-bottom: 1px solid #888989;
+  margin: 2px 0;
+  clear: right;
+}
+
+.main {
+    width: 80%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    color: white;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  a:visited
+  {
+    color: aliceblue;
+  }
+
+  a:hover
+  {
+    color:lawngreen
+  }
